@@ -1,12 +1,5 @@
-
-# Large trained machine-learning models
 Models/*.pkl
-
-# Python-generated files
-__pycache__/
-*.py[cod]
+__pycache__/*.py[cod]
 .venv/
 venv/
-
-# Environment secrets
 .env
