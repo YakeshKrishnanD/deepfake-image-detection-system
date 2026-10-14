@@ -108,7 +108,7 @@ sample-deepfake-project/
 
 The following diagram illustrates the complete end-to-end data flow, module breakdown, and database storage structure of the Deep Fake Detection System:
 
-[cite: 5]
+![System Architecture Diagram](./architectre%20diagram.png)
 
 ---
 
@@ -138,7 +138,7 @@ The following diagram illustrates the complete end-to-end data flow, module brea
 
 ### 📊 4. Deepfake synthetic Detection (Synthetic)
 
-![Dashboard View](outputs/synthetic.png)
+![Dashboard View](outputs/Synthetic.png)
 
 ---
 
