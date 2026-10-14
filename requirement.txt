@@ -1,0 +1,7 @@
+fastai
+timm
+gradio
+torch
+torchvision
+matplotlib
+pandas
